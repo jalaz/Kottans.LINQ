@@ -9,3 +9,12 @@ Steps to fulfil it:
   3.	Comment out ``using System.Linq;``
   4.	Implement it in project Kottans.LINQ
   5.	Run tests again
+
+We recommend to implement the following operators:
+ - Select
+ - Where
+ - FirstOrDefault
+ - Count
+ - Sum
+ 
+Other operators are optional
